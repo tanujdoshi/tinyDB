@@ -1,0 +1,26 @@
+tanuj Does Login 02/26/2024 01:35:27
+tanuj Begin transaction 02/26/2024 01:35:38
+tanuj Select in transaction 02/26/2024 01:35:44
+tanuj Insert in transaction 02/26/2024 01:40:13
+tanuj Does Login 02/26/2024 01:40:50
+tanuj Begin transaction 02/26/2024 01:41:03
+tanuj Select in transaction 02/26/2024 01:41:15
+tanuj Insert in transaction 02/26/2024 01:41:29
+tanuj Does Login 02/26/2024 01:42:53
+tanuj Begin transaction 02/26/2024 01:44:15
+tanuj Insert in transaction 02/26/2024 01:44:30
+tanuj Select in transaction 02/26/2024 01:46:37
+tanuj Does Login 02/26/2024 01:48:04
+tanuj Begin transaction 02/26/2024 01:48:15
+tanuj Select in transaction 02/26/2024 01:48:20
+tanuj Insert in transaction 02/26/2024 01:53:14
+tanuj Select in transaction 02/26/2024 01:53:26
+tanuj Commit transaction 02/26/2024 01:55:38
+tanuj Does Login 02/26/2024 01:56:17
+tanuj Begin transaction 02/26/2024 01:56:35
+tanuj Select in transaction 02/26/2024 01:56:45
+tanuj Commit transaction 02/26/2024 01:56:47
+tanuj Does Login 02/26/2024 02:02:28
+tanuj Begin transaction 02/26/2024 02:02:57
+tanuj Insert in transaction 02/26/2024 02:03:22
+tanuj Rollback transaction 02/26/2024 02:03:26
